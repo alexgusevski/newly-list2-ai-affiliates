@@ -1,8 +1,8 @@
-# 1000 AI Affiliate Programs
+# 1001 AI Affiliate Programs
 
-A browsable research directory of **1,000 distinct AI-related affiliate, partner, and referral program URLs**. It covers writing and research, generative media, marketing, coding, automation, productivity, education, and specialist software. Every entry includes a short product description, the main website when identifiable, a program or application link, commission details when public, and a research source.
+A browsable research directory of **1,001 distinct AI-related affiliate, partner, and referral program URLs**. It covers writing and research, generative media, marketing, coding, automation, productivity, education, and specialist software. Every entry includes a short product description, the main website when identifiable, a program or application link, commission details when public, and a research source.
 
-**Research date:** October 19, 2026 · **Entries:** 1,000 · **Unique affiliate links:** 1,000
+**Research date:** October 19, 2026 · **Additional entry verified:** November 1, 2026 · **Entries:** 1,001 · **Unique affiliate links:** 1,001
 
 Affiliate terms change. Some programs require approval, publish rates only inside a partner dashboard, have conflicting public terms, or have closed. Review the linked source and the current program agreement before promoting a product. An `Unconfirmed` main site means the merchant identity could not be matched confidently; the affiliate program link is still provided for investigation.
 
@@ -14,7 +14,7 @@ Affiliate terms change. Some programs require approval, publish rates only insid
   - [Video, avatars, and localization (132)](#video)
   - [Voice, audio, music, and transcription (63)](#audio)
   - [Images, design, and 3D (124)](#images)
-  - [AI agents, chatbots, and developer tools (158)](#agents)
+  - [AI agents, chatbots, and developer tools (159)](#agents)
   - [Marketing, sales, and websites (175)](#marketing)
   - [Meetings, productivity, and recruiting (131)](#productivity)
   - [Detection, education, and specialist tools (93)](#specialist)
@@ -490,7 +490,7 @@ Affiliate terms change. Some programs require approval, publish rates only insid
 | Zoviz | AI logo and brand identity generator with business branding assets and design tools. | Logo and brand design | [Website](https://zoviz.com/) | [Apply / details](https://zoviz.com/affiliate) | 15% Bronze, 20% Silver, 25% Gold, 30% Platinum; lifetime earnings tier unlocks | One-time purchases and subscription payments · Duration: Subscriptions pay on up to 12 months; one commission year per customer · Cookie: 30 days click tracking; registered referral retained on account · Official help article last updated 2026-07-09 gives tiers, 30-day cookie, $50 payout minimum and weekly/monthly/daily schedule by tier. Listed customer-credit referral is distinct from cash affiliate program. · [Source](https://help.zoviz.com/%2F/affiliate-program.html) |
 
 <a id="agents"></a>
-### AI agents, chatbots, and developer tools (158)
+### AI agents, chatbots, and developer tools (159)
 
 | Company / product | What it does | Specific category | Main site | Affiliate program | Commission | Terms and evidence |
 |---|---|---|---|---|---|---|
@@ -569,6 +569,7 @@ Affiliate terms change. Some programs require approval, publish rates only insid
 | Glide | AI-enabled no-code platform for building business apps from data and workflows. | AI coding and app development | [Website](https://www.glideapps.com/) | [Apply / details](https://www.glideapps.com/legal/affiliate-terms) | 20% of Net Revenue | Recurring · Duration: 12 months after qualified customer contract execution · Cookie: Not stated publicly · Official affiliate agreement sets 20% of Net Revenue for 12 months after contract execution and quarterly PartnerStack payments. The agreement is framed around qualified customer contracts; it does not publish a cookie window. · [Source](https://www.glideapps.com/legal/affiliate-terms) |
 | Gumloop | No-code AI automation platform for building workflows and agents. | AI workflow automation | [Website](https://www.gumloop.com/) | [Apply / details](https://www.gumloop.com/partners/apply-to-be-a-creator) | 20% of subscription revenue | Recurring · Duration: First 12 months · Cookie: Not stated publicly · Official creator program states 20% of new-customer subscription revenue for up to 12 months, subject to application approval. · [Source](https://www.gumloop.com/partners/apply-to-be-a-creator) |
 | HARPA AI | AI browser automation and assistant extension that connects web pages and workflows with AI models. | AI browser automation | [Website](https://harpa.ai/) | [Apply / details](https://harpa.ai/account/affiliate) | Not publicly disclosed; official application requires affiliate account | Not publicly disclosed · Duration: Not publicly disclosed · Cookie: Not publicly disclosed · Official affiliate signup page confirms an affiliate program. Official anti-scam guidance says affiliates must send buyers to harpa.ai/pricing; no public rate or tracking terms were found. · Status: needs terms confirmation · [Source](https://harpa.ai/account/affiliate) |
+| HOL Guard | Open-source security and approval controls for AI coding agents and MCP tools. | AI coding agent security | [Website](https://hol.org/guard) | [Apply / details](https://hol.org/guard/affiliates) | 25% recurring on qualifying net subscription revenue | First 12 months per referred customer · Cookie: 120 days · Approved commissions paid monthly or quarterly via Stripe Connect after a 30-day holding period and compliance review; exclusions include refunds, chargebacks, taxes, free trials, credits and self-referrals. Affiliate disclosure required. · Verified November 1, 2026 against [official program terms](https://hol.org/guard/affiliates) · [Source](https://hol.org/guard/affiliates) |
 | iLLCo AI | AI automation and creator tools for businesses. | AI agents, chatbots, and automation | [Website](https://illcoai.tech/) | [Apply / details](https://illcoai.tech/affiliates) | 20% of eligible net revenue | one-time · Duration: First purchase · Cookie: 30 days · Founding program has manual approval and a 30-day hold. · [Source](https://illcoai.tech/affiliates) |
 | Instatus | Status page and uptime communication platform for SaaS companies. | Developer operations | [Website](https://instatus.com/) | [Apply / details](https://instatus.com/referrals) | No public rate found | Listed referral feature; may be customer referral rather than public affiliate program · Duration: Not stated · Cookie: Not stated · Official referrals page did not expose public rates or terms; no first-party affiliate terms were located. Verify in account before treating as monetizable program. · [Source](https://instatus.com/referrals) |
 | Interview Coder | AI desktop application that assists with coding interview preparation. | AI coding interview preparation | [Website](https://www.interviewcoder.co/) | [Apply / details](https://www.interviewcoder.co/affiliate) | 30% on referred paid customers, including monthly subscriptions and lifetime deals | Recurring commission on subscriptions; one-time share on lifetime purchases · Duration: Recurring for as long as the referred customer subscribes · Cookie: Not publicly disclosed · Official affiliate page specifies 30% recurring and 30% of lifetime deal revenue; no cookie/attribution duration stated in public FAQ. · [Source](https://www.interviewcoder.co/affiliate) |
